@@ -1,0 +1,7 @@
+# *
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.mailmodo.com/sitemap.xml
+Sitemap: https://www.mailmodo.com/video-sitemap.xml
